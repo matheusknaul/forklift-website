@@ -1,0 +1,21 @@
+* {
+    color: aliceblue;
+  }
+  
+  .my-custom-bg {
+    background-color: #000018;
+    color: aliceblue;
+  }
+  
+  img {
+    max-width: 200px;
+    max-height: 150px;
+  }
+  
+  .navbar-text {
+    color: aliceblue; 
+  }
+  
+  .navbar-nav .nav-link {
+    color: aliceblue; 
+  }
